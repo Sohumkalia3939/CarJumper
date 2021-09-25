@@ -1,0 +1,195 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 8123 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/BowFight
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54339
+Successfully changed project path to: E:/BowFight
+E:/BowFight
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/BowFight/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.6663
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002692 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 19.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.904 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012351 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.759 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1123 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.2 MB.
+System memory in use after: 58.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 1.860900 ms (FindLiveObjects: 0.173200 ms CreateObjectMapping: 0.030100 ms MarkObjects: 1.575400 ms  DeleteObjects: 0.080900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ARCADE - FREE Racing Car/Meshes/Free_Racing_Car_Red.fbx
+  artifactKey: Guid(89f34d6067f7736469b3740d4612eaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Meshes/Free_Racing_Car_Red.fbx using Guid(89f34d6067f7736469b3740d4612eaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c390f523636236659ad3cd6e9d7ded8e') in 0.264664 seconds
+  Import took 0.300021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Meshes/Free_Racing_Car_Gray.fbx
+  artifactKey: Guid(f2845fe9efc6c254eb94d232be76ea51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Meshes/Free_Racing_Car_Gray.fbx using Guid(f2845fe9efc6c254eb94d232be76ea51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4425e89e5ee2d31a654377d8de7ba782') in 0.058988 seconds
+  Import took 0.088778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Meshes/Free_Racing_Car_Blue.fbx
+  artifactKey: Guid(1f768f0d5a5dc9e48941608a2f58f511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Meshes/Free_Racing_Car_Blue.fbx using Guid(1f768f0d5a5dc9e48941608a2f58f511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca603464682643a515e636193be474b7') in 0.051151 seconds
+  Import took 0.072843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Meshes/Free_Racing_Car_Yellow.fbx
+  artifactKey: Guid(30aed299437d3c64aaf1214d48491023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Meshes/Free_Racing_Car_Yellow.fbx using Guid(30aed299437d3c64aaf1214d48491023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9af3ed200523edba4e51783fd377bd0c') in 0.052095 seconds
+  Import took 0.073562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Meshes/Road.fbx
+  artifactKey: Guid(ab2e556b62273434dad486c1e0a4ebf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Meshes/Road.fbx using Guid(ab2e556b62273434dad486c1e0a4ebf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8205e082da6b3f5293280bc7546d6b6d') in 0.034537 seconds
+  Import took 0.045703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Meshes/Free_Racing_Car_Carbon.fbx
+  artifactKey: Guid(09f57a5ba9f33584a8118fed10afd1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Meshes/Free_Racing_Car_Carbon.fbx using Guid(09f57a5ba9f33584a8118fed10afd1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12713a9145981fea4228eed84a4f228') in 0.044960 seconds
+  Import took 0.054165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 828.758038 seconds.
+  path: Assets/Script/Dynamic Sky (For Demo).shader
+  artifactKey: Guid(36caaa6c327b97e4dad5c1331b9c4fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Dynamic Sky (For Demo).shader using Guid(36caaa6c327b97e4dad5c1331b9c4fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1e118914ce16a4591d6c84487a8a17') in 0.050865 seconds
+  Import took 0.090771 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000616 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.654 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1123 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.2 MB.
+System memory in use after: 62.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 1.981200 ms (FindLiveObjects: 0.190200 ms CreateObjectMapping: 0.031000 ms MarkObjects: 1.540100 ms  DeleteObjects: 0.218800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000621 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.636 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1123 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.2 MB.
+System memory in use after: 62.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 2.125900 ms (FindLiveObjects: 0.225000 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.621300 ms  DeleteObjects: 0.247800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 257.008220 seconds.
+  path: Assets/Script/New Material.mat
+  artifactKey: Guid(2f6218957cbba1249bcbdb30601c2ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/New Material.mat using Guid(2f6218957cbba1249bcbdb30601c2ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a50cf62f9ac7d0d76dc7cbaffa09d4b9') in 0.252183 seconds
+  Import took 0.264494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 256.045938 seconds.
+  path: Assets/Script/NewSurfaceShader.shader
+  artifactKey: Guid(43c1c915fbff4094ea02b519c6ee3c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/NewSurfaceShader.shader using Guid(43c1c915fbff4094ea02b519c6ee3c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a66e730eef2d2067a7d5ed7491acc6d7') in 0.003608 seconds
+  Import took 0.027872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.768607 seconds.
+  path: Assets/Script/NewSurfaceShader.shader
+  artifactKey: Guid(43c1c915fbff4094ea02b519c6ee3c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/NewSurfaceShader.shader using Guid(43c1c915fbff4094ea02b519c6ee3c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e001f43f21c79cffad3e97c2a56e87') in 0.001932 seconds
+  Import took 0.013093 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
